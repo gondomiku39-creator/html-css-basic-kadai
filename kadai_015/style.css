@@ -21,6 +21,6 @@ h1{
   text-shadow: 2px 2px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
-#basic p{
+#basic>p{
     font-weight: bold;
 }
